@@ -23,42 +23,8 @@ This repo is the Bot of video converter  there is more difference between my bot
 
 - Give your username in USER_ID.
 
-<i>YouTube video</i> - <a href="https://youtu.be/zQamSjXBpJU"><img src="https://img.shields.io/badge/How%20To-Create-red.svg?logo=Youtube"></a>
 
 
-## How to reach Me ?
-<a href="https://telegram.dog/Ns_bot_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Ns_Bot_supporters"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-## COMMANDS
-### AVAILABLE COMMANDS 
-```
-start - check whether bot is alive 
-
-converttovideo - reply to the media for converting into video 
-
-converttofile - reply to the media for converting into file 
-
-help - know how to use this bot
-
-about - to know about me
-```
-### start
-<p align="center">
-<img src="https://telegra.ph/file/3cb7e3725cd991373dd9b.jpg" alt="START">
-
-### help
-<p align="center">
-<img src="https://telegra.ph/file/0ba25cedf094225ad7175.jpg" alt="HELP">
-
-### about
-<p align="center">
-<img src="https://telegra.ph/file/f6ad0e22825afe65ddcd2.jpg" alt="ABOUT">
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-#
-#
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
 
 
 
